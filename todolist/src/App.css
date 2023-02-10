@@ -1,38 +1,33 @@
+*{
+  box-sizing: border-box;
+  margin:0px;
+  padding: 0px;
+}
+
+
+
+li{
+  /* background-color: #5f5f5f5f; */
+  /* border: solid 2px #dddddd; */
+  /* border-radius: 4px; */
+  /* margin:3px 0px; */
+  /* width:200px; */
+  /* color:white */
+}
+.finish{
+  /* background-color: red; */
+  /* text-decoration:line-through */
+}
+
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  /* display:flex; */
+  /* flex-direction: column; */
+  /* align-items: center; */
+  /* padding:10px; */
+  /* height:100vh; */
+  /* background-image: url("https://www.cultofmac.com/wp-content/uploads/2018/09/6051355E-D863-473B-9474-F6D992465671.jpeg"); */
+  /* background-repeat: no-repeat; */
+  /* background-size: 100% 100%; */
+  /* background-size: cover; */
+  /* background-position: center; */
 }
